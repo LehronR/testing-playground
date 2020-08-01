@@ -1,0 +1,19 @@
+{
+  "name": "testing-playground",
+  "version": "1.0.0",
+  "description": "A chill test playground for learning new coding languages",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LehronR/testing-playground.git"
+  },
+  "author": "Lehron Robinson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LehronR/testing-playground/issues"
+  },
+  "homepage": "https://github.com/LehronR/testing-playground#readme"
+}
